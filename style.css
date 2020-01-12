@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+h1 {
+    font-family: "Roboto",sans-serif;
+    border: 1px solid #000;
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+    font-size:17px;
+    
+}
+
+p{
+    margin: 15px;
+    padding: 10px;
+    font-size:12px;
+    
+}
+article {
+  column-count: 2;
+  column-gap: 50px;
+margin: auto;
+  column-rule: 2px solid #000;
+ 
+}
+
+.naglowek-artykulu1 {
+    margin:15px;
+    background-color:#fed100;
+      font-size:17px;
+}
+
+.naglowek-artykulu2 {
+    margin:15px;
+    background-color:#fed100;
+    font-size:17px;
+}
+
+
+.tytul {
+    font-size: 20px;
+    padding: 20px;
+    
+}
+
+
+.tytul:hover {
+    background-color: #fed100;
+    
+}
